@@ -1,2 +1,0 @@
-# reactCodesandboxTest
-Created with CodeSandbox
