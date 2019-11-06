@@ -7,8 +7,8 @@ function App() {
   return (
     <div className="App">
       <h1>Hello World</h1>
-      <p>Hsdasad</p>
-      <h2>Start eediting to see some magic happen!</h2>
+      <p>Testing the commit system</p>
+      {/* <h2>Start eediting to see some magic happen!</h2> */}
     </div>
   );
 }
